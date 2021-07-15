@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T01:09:14.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="q_TsC0gq_6uYH5_BR0Cp" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T01:16:44.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.67" etag="qwHOECdHbtxXQnWjXwoi" version="14.8.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1110" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
         <mxCell id="lnbEZevAB6vKnUXMi4Jg-47" value="Buy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217.5" y="290" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="lnbEZevAB6vKnUXMi4Jg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lnbEZevAB6vKnUXMi4Jg-49" target="lnbEZevAB6vKnUXMi4Jg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lnbEZevAB6vKnUXMi4Jg-49" value="Marked As Sell Ordered" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="250" width="120" height="120" as="geometry" />
         </mxCell>
@@ -95,6 +98,15 @@
         </mxCell>
         <mxCell id="lnbEZevAB6vKnUXMi4Jg-52" value="Submit Buy Limit Order &amp;amp; Mark As BuyOrdered" style="whiteSpace=wrap;html=1;fontSize=14;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="376.5" y="70" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lnbEZevAB6vKnUXMi4Jg-54" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lnbEZevAB6vKnUXMi4Jg-56" value="NO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="690" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lnbEZevAB6vKnUXMi4Jg-57" value="YES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="370" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
